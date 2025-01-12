@@ -1,0 +1,201 @@
+html,body{
+    margin: 0px;
+    padding: 0px;
+    
+}   
+.hero_section{
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(45deg,#4A16BD,#04016C);
+}
+.footer{
+    width: 100%;
+    height: 70px;
+    background: linear-gradient(#2E08C7,#7E08C7);
+
+}
+.button{
+    background: linear-gradient(#083F9B,#7F56D9);
+
+}
+.rectangle{
+    position: absolute;
+    margin-left: -1000px;
+    
+}
+.coaching{
+    columns: #0E38CD;
+}
+.booking{
+    position: absolute;
+  
+}
+.search{    
+    background: linear-gradient(#083F9B,#7F56D9);
+}
+.heroelipes{
+    width: 400px;
+}
+nav{
+    position: absolute;
+    
+}
+.hero{
+    position: absolute;
+    
+}
+.page2{
+    background: linear-gradient(to bottom, #ffffff,#D9ECFF);
+    width: 100%;
+    height: 200vh;
+}
+.righteous-regular {
+    font-family: "Righteous", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+.righteous-regular1{
+    font-family: "Righteous", serif;
+    font-weight: 100;
+    font-style: normal;
+  }  
+ 
+  .saira{
+    font-family: "Saira", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: small;
+  font-variation-settings:
+    "wdth" 62.5;
+  }
+ .nocolor{
+    color: #4E596B;
+ } 
+.explore{
+    background: linear-gradient(to right,#083F9B,#7F56D9);
+} 
+.page3{
+    width: 100%;
+    height: 110vh;
+    background: linear-gradient(45deg,#739FE8,#4F18CA);
+} 
+.saira1{
+    font-family: "Saira", serif;
+  font-optical-sizing: large;
+  font-weight: 900;
+  font-style: large;
+  font-variation-settings:
+    "wdth" 87.5;
+  }
+.page4{
+    background: linear-gradient(to bottom,#D9ECFF,#D9ECFF);
+    width: 100%;
+    height: 90vh;
+    
+}  
+.Categories{
+    color: #0E38CD;
+}
+.unique{
+    color: #4E596B;
+}
+.coures{
+    color: #324361;
+    margin-left: -6px;
+}
+.nocoures{
+    color: #4F547B;
+}
+.page5{
+    background: linear-gradient(45deg,#00B3FF,#1901F8,#E441FF);
+    width:800px;
+    height: 300px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.img1{
+    margin-left: 600px;
+}
+.img2{
+    margin-left: 550px;
+}
+.img3{
+    margin-left: 600px;
+}
+
+.Subscribe{
+    background-color:#0E38CD;
+}
+.page6{
+    width: auto;
+    height: auto;
+    margin: 150px;
+}
+.banner{
+    margin-left: 620px;
+}
+.Polygon8{
+    position: absolute;
+    margin-left: 65px;
+    
+    
+}
+.Polygon7{
+    position: absolute;
+    margin-left: 900px;
+}
+.page7{
+    background: linear-gradient(to right,#931BBD,#477AE3);
+    width: 100%;
+    height: 50vh;
+}
+.testimonials{
+    width: 100%;
+    height: 100vh;
+    background:linear-gradient(to bottom,#ffffff,#DBEDFF);
+    
+
+   
+}
+.test{
+    p{
+        color: #0E38CD;
+    }
+}
+.aboutus{
+    color: #4E596B;
+}
+.review{
+    color: #7E7EAA;
+    font-size: xx-small;
+}
+.reviewbox{
+    margin-left: 500px;
+}
+.reviewcolor{
+    color: #7E7EAA;
+}
+
+
+.bottom{
+    background: linear-gradient(#0351AE,#A542C8);
+    height: 70px;
+    width: 100%;
+}
+.end{
+    background-color: #001AFF;
+    height: 15px;
+    width: 100%;
+}
+.reviewimg{
+    margin-left: 790px;
+    margin-top: 200px;
+}
+.reviewimg1{
+   margin-left: -160px;
+   margin-top: -100px;
+}
+.reviewimg2{
+    margin-left: 180px;
+    margin-top: 200px;
+}
