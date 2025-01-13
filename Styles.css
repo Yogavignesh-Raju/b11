@@ -110,7 +110,7 @@ nav{
     background: linear-gradient(45deg,#00B3FF,#1901F8,#E441FF);
     width:800px;
     height: 300px;
-    margin-left: 200px;
+    margin-left: 100px;
     margin-right: 100px;
 }
 .img1{
@@ -132,7 +132,7 @@ nav{
     margin: 200px;
 }
 .banner{
-    margin-left: 690px;
+    margin-left: 590px;
 }
 .Polygon8{
     position: absolute;
