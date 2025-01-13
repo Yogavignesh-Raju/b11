@@ -76,7 +76,7 @@ nav{
 } 
 .page3{
     width: 100%;
-    height: 110vh;
+    height: 100vh;
     background: linear-gradient(45deg,#739FE8,#4F18CA);
 } 
 .saira1{
@@ -106,12 +106,22 @@ nav{
 .nocoures{
     color: #4F547B;
 }
+.new{
+    background-color: #ffffff;
+    width: 100%;
+    height: max-content;
+}
 .page5{
     background: linear-gradient(45deg,#00B3FF,#1901F8,#E441FF);
     width:800px;
     height: 300px;
-    margin-left: 100px;
-    margin-right: 100px;
+  
+}
+.Ellipse{
+    margin-left: -600px;
+}
+.Ellipse1{
+    margin-left: 500px;
 }
 .img1{
     margin-left: 600px;
@@ -122,7 +132,12 @@ nav{
 .img3{
     margin-left: 600px;
 }
-
+.polyon{
+    margin-right: 800px;
+}
+.polyon1{
+    margin-left: 800px;
+}
 .Subscribe{
     background-color:#0E38CD;
 }
