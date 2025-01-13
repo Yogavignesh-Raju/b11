@@ -142,12 +142,17 @@ nav{
     background-color:#0E38CD;
 }
 .page6{
-    width: auto;
-    height: auto;
-    margin: 200px;
+    background-color: #ffffff;
+    width: 100%;
+    height: 140vh;
+    
+}
+.videoimg{
+    width: 700px;
+    height: 400px;
 }
 .banner{
-    margin-left: 590px;
+    margin-left:-80px ;
 }
 .Polygon8{
     position: absolute;
